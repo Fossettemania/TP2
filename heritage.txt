@@ -1,0 +1,6 @@
+exercice 2 
+question 
+2-Toute les règles se propagent aux enfant du sélecteur, on peut le voir avec le  background-color, je n el'ai uniuqment pour la class principale et le bacckground color s'applpiuqe également à la sous-liste.
+3-Pour voir comment se propage une règle on le met en amont de notre code et voir comment elle se propage. On pourrait comparer cela à un maladie qui se propage.
+4- Il ya surment un moyen de forcer héritage, mais pour cela il faut faire du cas par cas par exmeple aller dans le html ET modifier le style comme on le faisait avant.
+

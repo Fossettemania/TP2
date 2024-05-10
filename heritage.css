@@ -1,0 +1,8 @@
+.liste-principale{
+    color:brown;
+    background-color: skyblue;
+ }
+.sous-liste{
+    color:rgb(89, 0, 255);
+    font-weight: bold;
+}

@@ -1,0 +1,17 @@
+ul {
+    background-color: #e19d2a;
+    /* plutot un centrage */
+    text-align: center;
+}
+
+ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+/* colorer les zones de clics et leur texte au survol */
+/* ca implique display:block pour delimiter la zone de coloration */
+ul li:hover { 
+    display: block;
+    background-color: #c5701f;
+}
